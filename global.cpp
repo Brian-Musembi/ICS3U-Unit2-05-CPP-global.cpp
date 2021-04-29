@@ -2,7 +2,7 @@
 //
 // Created by: Brian Musembi
 // Created on: 28 April 2021
-// This program calculates the cost of pizza
+// This program shows how local and global variables work
 
 #include <iostream>
 
